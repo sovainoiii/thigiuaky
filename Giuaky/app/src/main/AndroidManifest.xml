@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Giuaky" >
         <activity
-            android:name=".ResultActivity"
+            android:name=".AddActivity"
             android:exported="false" />
         <activity
             android:name=".activity_result"
